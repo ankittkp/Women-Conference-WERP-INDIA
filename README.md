@@ -26,4 +26,4 @@ Event
  Location- Individual College project
 ##### WERP Girls Talk 
  27th December
- ##### Location###### Mumbai######  Bangalore###### Kolkota###### Lucknow###### Chennai
+ ##### Location Mumbai,Bangalore,Kolkota,Lucknow,Chennai
