@@ -1,0 +1,115 @@
+body{
+    padding-bottom: 20px;
+    color: #5a5a5a;
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+}
+
+.navbar-wrapper > .container{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-wrapper .navbar {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.navbar-wrapper .navbar .container{
+    width: auto;
+}
+
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.carousel .item{
+    height: 500px;
+    background-color: #777;
+}
+
+.carousel-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.about{
+    text-align: center;
+    font-size: 15px;
+}
+
+.team .col-lg-4{
+    text-align: center;
+    margin:  0 0 0 0 ;
+}
+
+.team h2 {
+    color: rgba(50,50,50,0.8);
+}
+
+.team p{
+
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.divider{
+    margin: 0 0 0 0 ;
+    
+}
+.mickey{
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 80px;
+    margin: 0 0 0 0;
+}
+.content{
+    margin-bottom: 00px;
+}
+.content-image{
+    height: 400px;
+    width: 400px;
+}
+.lead{
+    font-size: 13px;
+    color: #000;
+    font-style: italic;
+}
+.data{
+    text-align: center;
+    color: #000;
+    font-size: 13px;
+}
+.power{
+    top: 0%;
+    padding:  0 0 0 0;
+    margin-top: 0 0 0 0;
+    background-image: url(../images/power.jpeg);
+    background: cover;
+    color: white;
+}
+.start{
+    top: 0%;
+    bottom: 0%;
+    padding:  0 0 0 0;
+    margin: 0 0 0 0;
+    background-color: #88bbd6;
+    background: cover;
+}
+footer{
+    margin: 0 110px;
+    
+}
+
+
