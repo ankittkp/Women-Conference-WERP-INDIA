@@ -1,13 +1,46 @@
-## WERP India
-![w](https://user-images.githubusercontent.com/44456358/47607873-80996280-da43-11e8-8f7b-7c3a37ff2baf.PNG)
+# WERP India
+### WERP India is a student initiative organization for Women Empowerment, a project Forum of Financial Initiatives (FFI) India 
+
+## Vision of WERP India
+ #####  Women as the driver of societal change
+ #####  A purposeful and contributive society equal participation from all citizens
+ #####   Encouraging the enterpreneurs
+ #####  Extending hands to single parent
+ #####  Educate then to bring a women led development
+## Women Empowerment Conference
 ## Date:  25th to 27th December 2018
+### a start towards change
 ![w1](https://user-images.githubusercontent.com/44456358/47607944-5eecab00-da44-11e8-928a-0493e8bd98a8.PNG)
 ## Description
 This is an event organized by WERP India ,an organization for women Empowerment
 Event 
-Day 1:The Business Dimension
-Day 2:Social Research Perspective
-Day 3: Students the drive of change of status of women
-## Regarding the website
-Front End: JS
+##### Day 1:The Business Dimension
+ Target- All business man and women in India and most especially new start up
+ Location- Guagoan 
+##### Day 2:Social Research Perspective
+ Target- Academicians and Researchers
+ Location- Delhi
+##### Day 3: Students the drive of change of status of women
+ Target - Students
+ Location- Individual College project
+##### WERP Girls Talk 
+ 27th December
+ ##### Locations
+  ###### Mumbai
+  ######  Bangalore
+  ###### Kolkota
+  ###### Lucknow
+  ###### Chennai
+## Technologies Used
+Front End: JS, HTML ,CSS
 Back End:PHP
+## Contact Details
+ ####  Ms Ishwariya Ram CONFERENCE ORGANIZING SECRETARY
+ ##### wcsecretary@werpindia.org +91 7829300281
+ #### Mr Kamendra Narian DELHI ORGANIZING SECRETARY 
+   ##### kamendran11.narain@gmail.com kamendra.werpindia@gmail.com   +91 9650256416
+  
+ 
+ ## License 
+  #### Project Licensed under WERP India
+
